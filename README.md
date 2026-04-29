@@ -22,7 +22,7 @@ const registrar = ({ nombre, edad }) => {
   }
 };
 export default registrar;
-
+```
 Mejoras Obtenidas
 Seguridad: Implementación de parámetros ? para prevenir SQL Injection.
 
