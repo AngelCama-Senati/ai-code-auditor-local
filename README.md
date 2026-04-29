@@ -45,7 +45,6 @@ El proceso se realizó 100% offline para garantizar la privacidad del código fu
 
 Para demostrar tus habilidades técnicas y la importancia de las mejoras realizadas, puedes proporcionar una breve explicación adicional en tu README o en una sección separada del código:
 
-```markdown
 ## Explicación de Mejoras
 
 1. **Seguridad:** La implementación de parámetros `?` en la consulta SQL es crucial para evitar SQL Injection, lo que protege los datos sensibles de la aplicación.
@@ -55,3 +54,4 @@ Para demostrar tus habilidades técnicas y la importancia de las mejoras realiza
 3. **Escalabilidad:** La exportación modular del componente permite su reutilización en otros proyectos o módulos, mejorando la escalabilidad del desarrollo.
 
 4. **Manejo de Errores:** El manejo de errores mediante bloques `try-catch` asegura que los fallos sean gestionados adecuadamente y no interfieran con el funcionamiento normal de la aplicación.
+```markdown
